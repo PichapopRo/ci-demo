@@ -1,3 +1,5 @@
+[![Run Unit Test](https://github.com/PichapopRo/ci-demo/actions/workflows/python-unittest.yml/badge.svg)](https://github.com/PichapopRo/ci-demo/actions/workflows/python-unittest.yml)
+
 Continuous Integration Demo
 ===========================
 
