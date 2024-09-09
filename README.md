@@ -1,5 +1,5 @@
 [![Run Unit Test](https://github.com/PichapopRo/ci-demo/actions/workflows/python-unittest.yml/badge.svg)](https://github.com/PichapopRo/ci-demo/actions/workflows/python-unittest.yml)
-
+[![Run Flake8 Docstring](https://github.com/PichapopRo/ci-demo/actions/workflows/run-flake8.yml/badge.svg)](https://github.com/PichapopRo/ci-demo/actions/workflows/run-flake8.yml)
 Continuous Integration Demo
 ===========================
 
